@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dion</string>
+    <string name="Register">Registrare</string>
+    <string name="Welcome">Benvenuto</string>
+    <string name="action_settings">impostazioni</string>
+    <string name="age">Età</string>
+    <string name="login">Accesso</string>
+    <string name="name">Nome</string>
+    <string name="noaccount">Nessun account? Crearne uno</string>
+    <string name="password">Password</string>
+    <string name="username">Nome utente</string>
+</resources>
