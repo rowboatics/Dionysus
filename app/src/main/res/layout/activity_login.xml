@@ -3,7 +3,7 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:fitsSystemWindows="true"
-    android:background="#232B2B">
+    android:background="@color/colorActivityLogin">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -17,7 +17,7 @@
             android:layout_width="match_parent"
             android:layout_height="100dp"
             android:layout_gravity="center_horizontal"
-            android:layout_marginBottom="40dp"
+            android:layout_marginBottom="70sp"
             android:src="@drawable/logo" />
 
         <!--  Email Label -->
@@ -27,8 +27,9 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:hint="@string/username"
+            android:textColor="@color/colorWhite"
             android:inputType="text"
-            android:textColor="#FFFFFF"/>
+            />
 
         <EditText
             android:id="@+id/etPassL"
@@ -37,22 +38,25 @@
             android:ems="10"
             android:hint="@string/password"
             android:inputType="textPassword"
-            android:textColor="#FFFFFF"/>
+            android:textColor="@color/colorWhite"
+            android:layout_marginBottom="20sp"
+            />
 
         <Button
             android:id="@+id/bLogin"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/login"
-            android:shadowColor="#232B2B"/>
+            />
 
         <TextView
             android:id="@+id/tvSignUp"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="24dp"
+            android:layout_marginBottom="24sp"
             android:gravity="center"
             android:text="@string/noaccount"
+            android:textColor="@color/colorWhite"
             android:textSize="16sp" />
 
     </LinearLayout>
