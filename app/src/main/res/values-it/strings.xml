@@ -7,7 +7,8 @@
     <string name="age">Età</string>
     <string name="login">Accesso</string>
     <string name="name">Nome</string>
-    <string name="noaccount">Nessun account? Crearne uno</string>
     <string name="password">Password</string>
     <string name="username">Nome utente</string>
+    <string name="haveAccount">Già registrato? clicca qui</string>
+    <string name="noAccount">Nessun account? Crearne uno</string>
 </resources>
