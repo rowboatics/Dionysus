@@ -43,19 +43,19 @@
             />
 
         <Button
-            android:id="@+id/bRegister"
+            android:id="@+id/bLogin"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/Register"
+            android:text="@string/login"
             />
 
         <TextView
-            android:id="@+id/tvLogin"
+            android:id="@+id/tvSignUp"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="24sp"
             android:gravity="center"
-            android:text="@string/haveAccount"
+            android:text="@string/noAccount"
             android:textColor="@color/colorWhite"
             android:textSize="16sp" />
 

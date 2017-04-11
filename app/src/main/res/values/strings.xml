@@ -2,7 +2,7 @@
     <string name="app_name">Dion</string>
     <string name="username">Username</string>
     <string name="password">Password</string>
-    <string name="login">Log In</string>
+    <string name="login">Login</string>
     <string name="email" translatable="false">Email</string>
     <string name="Register">Register</string>
     <string name="haveAccount">Already Registered? Login here</string>
@@ -18,7 +18,15 @@
     <string name="ExpenseMessage" translatable="false">Your current Total Expenditure is </string>
     <string name="title_activity_main" translatable="false">MainActivity</string>
     <string name="action_settings">Settings</string>
-    <string name="section_format" translatable="false">Hello World from section: %1$d</string>
     <string name="noAccount">No Account? Create one</string>
+    <string name="title_activity_test" translatable="false">test</string>
+    <string name="Logout">Logout</string>
+    <string name="ValidEmail">Please Enter a Valid Email</string>
+    <string name="ValidPassword">Please Enter a Valid Password</string>
+    <string name="PleaseWait">Please Wait…</string>
+    <string name="PleaseTryAgain">Please Try Again</string>
+    <string name="RegisteredSuccessfully">Registered Successfully</string>
+    <string name="title_activity_user_area">UserAreaActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
 
 </resources>
